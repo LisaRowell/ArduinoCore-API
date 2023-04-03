@@ -1,12 +1,6 @@
 {
   "name": "framework-arduino",
-  "version": "1.8.13",
   "description": "Core of Arduino API",
-  "keywords": [
-    "framework",
-    "arduino",
-    "microchip",
-  ],
   "homepage": "https://www.arduino.cc/reference/en",
   "license": "LGPL-2.1-or-later",
   "repository": {
